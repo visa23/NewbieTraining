@@ -4,8 +4,8 @@ Problem Statement:
 Given a lowercase string return the super reduced string by removing the adjacent duplicate characters.
 
 Sample inputs and outputs:
-"aaabccddd" = abd
-"aa" = Empty String
+"aaabccddd" = abd,
+"aa" = Empty String,
 "baab" = Empty String
 
 Problem Explanation:
