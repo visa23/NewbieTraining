@@ -9,8 +9,6 @@ Sample inputs and outputs:
 "baab" = Empty String
 
 Problem Explanation:
-The sequence of operations performed to reduce the given string.
-
 Let us take the first sample input and observe the sequence to reduce the string,
 
 aaabccddd --> abccddd --> abddd --> abd
